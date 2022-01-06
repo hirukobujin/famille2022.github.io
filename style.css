@@ -1,0 +1,59 @@
+* {
+    background-color: #0F8A5F ;
+    box-sizing: border-box;
+}
+
+body, html {
+    overflow:transparent;
+    margin: 0;
+    height: 100%;
+    font-family: 'Verdanin';
+    font-weight: 400;
+    font-size: 40px;
+    color: #FFF;
+    
+  }
+  
+  .color {
+   width: 20%;
+   margin-left: 40%;
+   margin-top: 250px;
+   height: 100%;
+   float: center
+  }
+
+  .color h1 {
+    position: relative;
+    z-index: 1231231;
+    text-align: center;
+  }
+  
+  .color p {
+    position: relative;
+    z-index: 1231231;
+    text-align: center;
+  }
+
+  .heading {
+    position: relative;
+    margin-top: -250px;
+    margin-bottom: 30px;
+    z-index: 1231231;
+    text-align: center;
+  }
+  .grid {
+    position: center;
+    margin-top: -70px;
+    z-index: 1231231;
+    text-align: center;
+  }
+
+  .color:nth-child(1){
+    background-color: #0F8A5F;
+  }
+
+  .sky {
+    height: 100%;
+    color: #FFF;
+    display: block;
+  }
